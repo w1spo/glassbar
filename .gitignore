@@ -1,0 +1,9 @@
+(
+echo .vs/
+echo x64/
+echo Debug/
+echo Release/
+echo *.user
+echo *.suo
+echo *.ipch
+) > .gitignore
