@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Visual Studio\\GlassTB\\obj\\x64\\Release\\main.obj",
+            "outputs": [
+                "C:\\Visual Studio\\GlassTB\\obj\\x64\\Release\\main.cpp.obj.dt.module.json",
+                "C:\\Visual Studio\\GlassTB\\obj\\x64\\Release\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
